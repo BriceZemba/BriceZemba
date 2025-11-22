@@ -2,13 +2,11 @@
 
 - 🔭 I’m currently working on an computer vision challenge that will predict the next 5 min in a video based on some features.
 
-- 🌱 I’m currently learning Machine Learninge Algorithms | Deep Learning | Reinforcement Learning | Cybersecurity | Large langage models.
+- 🌱 I’m currently learning Reinforcement Learning | Cybersecurity | Large langage models.
   
 - 👯 I’m looking to collaborate on the project that i currently build because i do believe that together, we can make great things.
   
 - 💬 Ask me about everything about Large large models, Machine Learning, Deep Learning, Java , GO , Python...
-
-- My projects at [] 
 
 - 📫 How to reach me **bricezemba336@gmail.com**
 
