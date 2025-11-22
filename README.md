@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏾, Welcome ...</h1>
 
-- 🔭 I’m currently working on Artificial intelligence project on agriculture.
+- 🔭 I’m currently working on an computer vision challenge that will predict the next 5 min in a video based on some features.
 
 - 🌱 I’m currently learning Machine Learninge Algorithms | Deep Learning | Reinforcement Learning | Cybersecurity | Large langage models.
   
