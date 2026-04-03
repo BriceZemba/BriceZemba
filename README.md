@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on an computer vision challenge that will predict the next 5 min in a video based on some features in a competion in ZINDI.
 
-- 🌱 I’m currently learning Reinforcement Learning | Cybersecurity | Large langage models.
+- 🌱 I’m currently learning Remote Sensing  | Cybersecurity | Large langage models.
   
 - 👯 I’m looking to collaborate on the project that i currently build because i do believe that together, we can make great things.
   
