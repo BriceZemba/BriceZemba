@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏾, Welcome ...</h1>
 
-- 🔭 I’m currently working on an computer vision challenge that will predict the next 5 min in a video based on some features in a competion in ZINDI.
+- 🔭 I’m currently working on an new architecture of Vision Transformers to predict fusariose disease on maize plants.
 
 - 🌱 I’m currently learning Remote Sensing  | Cybersecurity | Large langage models.
   
