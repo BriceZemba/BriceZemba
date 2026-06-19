@@ -39,10 +39,6 @@
 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">      
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-
-   <a href="https://keras.io" target="_blank" rel="noreferrer">      
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> 
   </a>   
 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">      
