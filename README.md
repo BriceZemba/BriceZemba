@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **bricezemba336@gmail.com**
 
-- - 📄 Know about my experiences [https://www.linkedin.com/in/wendemi-brice-romeo-zemba/](https://www.linkedin.com/in/wendemi-brice-romeo-zemba/)
+-  📄 Know about my experiences [https://www.linkedin.com/in/wendemi-brice-romeo-zemba/](https://www.linkedin.com/in/wendemi-brice-romeo-zemba/)
 
   
 
