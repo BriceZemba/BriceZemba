@@ -14,7 +14,6 @@
   <a href="https://medium.com/@bricezemba336"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://kaggle.com/lesecond"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="mailto:bricezemba336@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/github/followers/BriceZemba?style=for-the-badge&color=38BDAE&labelColor=0F2027" alt="Followers" />
 </p>
 
 <br />
