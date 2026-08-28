@@ -99,10 +99,16 @@ belief:    "AI applied carefully to human life makes that life better."
 <br />
 
 <!-- ======================= STATS ======================= -->
-## 📊 Streak
+## 📊 By the numbers
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BriceZemba&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=BriceZemba&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub profile statistics" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBriceZemba&query=%24.public_repos&style=for-the-badge&label=Repos&color=38BDAE&labelColor=0F2027" alt="Public repositories" />
+  <img src="https://img.shields.io/github/stars/BriceZemba?affiliations=OWNER&style=for-the-badge&label=Stars&color=38BDAE&labelColor=0F2027" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/BriceZemba?style=for-the-badge&color=38BDAE&labelColor=0F2027" alt="Followers" />
 </p>
 
 <br />
