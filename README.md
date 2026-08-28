@@ -29,10 +29,10 @@ vision**, **remote sensing**, and **large language models**.
 ```yaml
 name:      ZEMBA Wendemi Brice Roméo
 role:      ML Engineer · Data & AI
-focus:     Vision Transformers · Remote Sensing · LLMs · Cybersecurity
+focus:     Vision Transformers · Remote Sensing · LLMs · X-AI
 building:  A ViT architecture to detect Fusarium disease in maize crops
 learning:  Remote sensing pipelines, applied cryptography, agentic systems
-languages: Python · Jupyter · TypeScript · Java · SQL
+languages: Python · Jupyter · TypeScript · SQL
 belief:    "AI applied carefully to human life makes that life better."
 ```
 
@@ -120,7 +120,6 @@ belief:    "AI applied carefully to human life makes that life better."
 - **Email** — [bricezemba336@gmail.com](mailto:bricezemba336@gmail.com)
 - **Experience** — [linkedin.com/in/wendemi-brice-romeo-zemba](https://www.linkedin.com/in/wendemi-brice-romeo-zemba/)
 - **Writing** — [medium.com/@bricezemba336](https://medium.com/@bricezemba336)
-- **Notebooks** — [kaggle.com/lesecond](https://kaggle.com/lesecond)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="" />
