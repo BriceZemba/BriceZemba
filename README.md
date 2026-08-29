@@ -111,10 +111,10 @@ belief:    "AI applied carefully to human life makes that life better."
 <!-- ======================= CONTACT ======================= -->
 ## 💬 Reach me
 
-- **Ask me about** — Large Language Models, Machine Learning, Deep Learning, Computer Vision, ETL, Python, Java
-- **Email** — [bricezemba336@gmail.com](mailto:bricezemba336@gmail.com)
-- **Experience** — [linkedin.com/in/wendemi-brice-romeo-zemba](https://www.linkedin.com/in/wendemi-brice-romeo-zemba/)
-- **Writing** — [medium.com/@bricezemba336](https://medium.com/@bricezemba336)
+- **Ask me about** - Large Language Models, Machine Learning, Deep Learning, Computer Vision, ETL, Python, Java
+- **Email** - [bricezemba336@gmail.com](mailto:bricezemba336@gmail.com)
+- **Experience** - [linkedin.com/in/wendemi-brice-romeo-zemba](https://www.linkedin.com/in/wendemi-brice-romeo-zemba/)
+- **Writing** - [medium.com/@bricezemba336](https://medium.com/@bricezemba336)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="" />
