@@ -21,7 +21,7 @@
 <!-- ======================= ABOUT ======================= -->
 ## 🌍 About
 
-I build machine learning systems for problems that matter where I live — crop disease, health
+I build machine learning systems for problems that matter where I live crop disease, health
 screening, and access to information. Most of my work sits at the meeting point of **computer
 vision**, **remote sensing**, and **large language models**.
 
