@@ -28,7 +28,7 @@ vision**, **remote sensing**, and **large language models**.
 ```yaml
 name:      ZEMBA Wendemi Brice Roméo
 role:      ML Engineer · Data & AI
-focus:     Vision Transformers · Remote Sensing · LLMs · X-AI
+focus:     Vision Transformers · Remote Sensing · LLMs · X-AI · Robotics
 building:  A ViT architecture to detect Fusarium disease in maize crops
 learning:  Remote sensing pipelines, applied cryptography, agentic systems
 languages: Python · Jupyter · TypeScript · SQL
