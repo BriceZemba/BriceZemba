@@ -50,7 +50,7 @@ belief:    "AI applied carefully to human life makes that life better."
 | 🔎 | [RAG for trading research](https://github.com/BriceZemba/Retrieval-Augmented-Generation-for-Trading-research-paper) | RAG over financial research papers |
 
 > 👯 **Open to collaboration** on any of the above. I believe that together we build better things
-> than we do alone — so if a problem here overlaps with yours, open an issue and let's talk.
+> than we do alone so if a problem here overlaps with yours, open an issue and let's talk.
 
 <br />
 
